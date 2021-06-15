@@ -1,7 +1,6 @@
 Hello I am Manish
 Adding text from github
 
+ok I updated it
 
-Adding some text
-
-Updating data
+Hi Updating data
