@@ -1,6 +1,14 @@
 Hello I am Manish
 Adding text from github
 
+<<<<<<< HEAD
 It is F2
+=======
+ok I updated it
+>>>>>>> f1
 
-Adding some text
+Hi Updating data
+
+okkkkkkk
+
+again 
