@@ -1,11 +1,9 @@
 Hello I am Manish
 Adding text from github
 
-<<<<<<< HEAD
 ok I updated it
 =======
 It is F2
->>>>>>> f2
 
 Hi Updating data
 
