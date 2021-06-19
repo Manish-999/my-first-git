@@ -18,10 +18,7 @@ Hello it is working guys
 Testing Fetch
 
 
-<<<<<<< HEAD
+
 
 testing rebase Currently f2
 
-=======
-testing rebase Currently f2
->>>>>>> commenting in f2
